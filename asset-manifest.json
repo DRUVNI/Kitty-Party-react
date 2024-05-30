@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kitty-party-react/static/css/main.485226a7.css",
+    "main.js": "/Kitty-party-react/static/js/main.5275dd62.js",
+    "static/js/453.2fc6b7b3.chunk.js": "/Kitty-party-react/static/js/453.2fc6b7b3.chunk.js",
+    "index.html": "/Kitty-party-react/index.html",
+    "main.485226a7.css.map": "/Kitty-party-react/static/css/main.485226a7.css.map",
+    "main.5275dd62.js.map": "/Kitty-party-react/static/js/main.5275dd62.js.map",
+    "453.2fc6b7b3.chunk.js.map": "/Kitty-party-react/static/js/453.2fc6b7b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.485226a7.css",
+    "static/js/main.5275dd62.js"
+  ]
+}
